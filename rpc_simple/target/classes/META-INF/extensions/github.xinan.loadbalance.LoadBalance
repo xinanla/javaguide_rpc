@@ -1,0 +1,1 @@
+loadBalance=github.xinan.loadbalance.loadbalancer.ConsistentHashLoadBalance
